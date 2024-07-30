@@ -11,7 +11,7 @@ View while Nosana node is waiting for job to finish.
   
 View after Nosana node is stopped. Easy to see across the room.
   
-  ![alt text](https://github.com/MachoDrone/Stop-Nosana-node-after-current-job-finishes/blob/da22dac54bdeb4499f00fbd40ec91b22ffdf77f1/Screenshot2--finishjob.png)
+  ![alt text](https://github.com/MachoDrone/Stop-Nosana-node-after-current-job-finishes/blob/a13f6b8e70d184bd216c19d491624a821230f566/Screenshot2--finishjob.png)
   
 Or download with: `wget https://raw.githubusercontent.com/MachoDrone/Stop-Nosana-node-after-current-job-finishes/main/finishjob.sh`
   
