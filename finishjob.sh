@@ -17,7 +17,7 @@ animate() {
   local spin='/-\|'
   local i=0
   while :; do
-    printf "\rwaiting for Nosana Job completion %c" "${spin:i++ % ${#spin}:1}"
+    printf "\rWaiting for Nosana Job completion %c" "${spin:i++ % ${#spin}:1}"
     sleep "$delay"
   done
 }
