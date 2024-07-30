@@ -1,4 +1,5 @@
 #!/bin/bash
+rm -r finishjob-installer.sh
 echo -e "\n"
 echo "------------------------------------------------"
 echo "|                                              |"
