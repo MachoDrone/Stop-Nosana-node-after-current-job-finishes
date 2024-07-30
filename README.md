@@ -3,7 +3,7 @@
   - `wget -qO finishjob-installer.sh 'https://raw.githubusercontent.com/MachoDrone/Stop-Nosana-node-after-current-job-finishes/main/finishjob-installer.sh' && sudo bash finishjob-installer.sh`
   
   - Open a new TTY or Terminal Window
-  - - start with `./finishjob.sh`
+  -   start with `./finishjob.sh`
     
 View while Nosana node is waiting for job to finish.
   
